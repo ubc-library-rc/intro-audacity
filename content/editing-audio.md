@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Editing audio with Audacity 
+title: Editing audio  
 nav_order: 5
 ---
 # Editing Audio
