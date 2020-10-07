@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recording and editing audio
+title: Recording audio
 nav_order: 4
 ---
 # Recording audio
@@ -38,7 +38,7 @@ If you’re using an external microphone, make sure that you are facing the micr
 
 Every room has its own unique sound due to technology, windows, air conditioner, etc. Record some silent room tone in case you need it to fill in any gaps in the editing room.
 
-## Recording Audio in Audacity
+## Recording audio in Audacity
 
 To record audio in Audacity, select the appropriate microphone from the drop down menu. 
 
