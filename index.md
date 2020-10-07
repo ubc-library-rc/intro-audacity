@@ -24,7 +24,7 @@ By the end of this tutorial you should be able to…
 | 0:00 | Welcome and using Zoom|
 | 0:05 | Introduction to Audacity|  
 | 0:15 | Tips for recording and editing audio |   
-| 0:30 | Demonstration ... |
+| 0:30 | Demonstration of Audacity |
 | 1:00 | Wrap-up and Discussion |
 
 ## Resources:
