@@ -23,16 +23,16 @@ When you’re in the space that you will be recording your audio, test it out. R
 
 You want to play back the sound to make sure that your levels are not “too hot”. This means that the sound is not too loud. Audacity allows you to monitor your levels using the Mixer Toolbar. Ideally, you should be aiming for approximately -10 dB.
 
-
+<img src="images/Volume-10.png" alt="Volume toolbar" width="auto" height="auto">
 
 If your levels are too hot, it will go into the red and the sound will become distorted. If the sound is too loud during recording, it will be hard to fix when you are editing.  
 
-
+<img src="images/VolumeRed.png" alt="Volume toolbar going into red" width="auto" height="auto">
 
 
 *5*{: .circle .circle-blue} Speak towards the microphone, at the same distance, for the entire recording.
 
-If you’re using an external microphone, make sure that you are facing the microphone and speaking at the same distance for the entire recording. If you stray too far from the microphone, you may end up getting different sound quality throughout your recording. Position your microphone slightly to the side of your mouth.
+If you’re using an external microphone, make sure that you are facing the microphone and speaking at the same distance for the entire recording. If you stray too far from the microphone, you may end up getting different sound quality throughout your recording. Position your microphone slightly to the side of your mouth if you are not using a windscreen or pop filter.
 
 *6*{: .circle .circle-blue} Record the room tone.
 
