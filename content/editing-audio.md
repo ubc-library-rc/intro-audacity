@@ -4,7 +4,7 @@ title: Editing audio with Audacity
 nav_order: 5
 ---
 
-# Overview of the Editing Interface     
+# Editing with Audacity   
 
 Audacity has many tools and effects to use but there are a few important ones to know before you begin your editing project. 
 
