@@ -1,33 +1,8 @@
 ---
 layout: default
-title: Editing audio
+title: Editing audio with Audacity 
 nav_order: 5
 ---
-# Editing Audio
-
-Editing is a creative and individual experience but there are a couple of strategies to make this process more efficient and streamlined.
-
-*1*{: .circle .circle-blue} Create a rough first and then fine tune.
-
-If you are editing a work with multiple tracks of audio (e.g. music, voiceover, sound effects, etc.), create a rough cut first by placing the sound in the approximate space that you want it to play. Once your tracks are in the right order, fine tune the audio by taking out the “ums”, adjusting volume, etc.
-
-*2*{: .circle .circle-blue} Organize your sounds by using different tracks.
-
-Organize your audio files by placing them on different tracks and labeling them (e.g. a track for music, a track for sound effects, a track for voiceover). Edit sound files in either AIPP or WAV file formats and export to MP3 later.
-
-## Finding Sound Effects and Music
-
-If you want to add sound effects to your project, you can either create your own (e.g. using an app like GarageBand) or download ones that have already been created. Freesound (https://freesound.org/) is a great resource. It has a ton of free sound effects that are openly licensed. 
-
-Freesound requires you to sign up for an account before downloading any sound effects.
-{: .note}
-
-#3 Finding Music
-
-It is important that you have permission from the copyright holder to use any music that you include in your project especially if you plan to make your project available on the Internet. Free Music Archive (https://freemusicarchive.org/) is a resource that allows you to search for free music that is openly licensed. There is also Audio Jungle (https://audiojungle.net/) and ccMixter (http://ccmixter.org/view/media/picks).
-
-Remember to check the copyright license and make sure to read the terms of that license. If you have any questions about copyright, contact the [UBC Copyright Office.](https://copyright.ubc.ca/)
-{: .note}
 
 # Overview of the Editing Interface     
 
