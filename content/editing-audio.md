@@ -17,14 +17,14 @@ Organize your audio files by placing them on different tracks and labeling them 
 
 ## Finding Sound Effects
 
-If you want to add sound effects to your project, you can either create your own (e.g. using an app like GarageBand) or download ones that have already been created. Freesound (https://freesound.org/) is a great resource. It has a ton of free sound effects that are openly licensed. 
+If you want to add sound effects to your project, you can either create your own (e.g. using an app like GarageBand) or download ones that have already been created. [Freesound](https://freesound.org/) is a great resource. It has a ton of free sound effects that are openly licensed. 
 
 Freesound requires you to sign up for an account before downloading any sound effects.
 {: .note}
 
 ## Finding Music
 
-It is important that you have permission from the copyright holder to use any music that you include in your project especially if you plan to make your project available on the Internet. Free Music Archive (https://freemusicarchive.org/) is a resource that allows you to search for free music that is openly licensed. There is also Audio Jungle (https://audiojungle.net/) and ccMixter (http://ccmixter.org/view/media/picks).
+It is important that you have permission from the copyright holder to use any music that you include in your project especially if you plan to make your project available on the Internet. [Free Music Archive](https://freemusicarchive.org/) is a resource that allows you to search for free music that is openly licensed. There is also [Audio Jungle](https://audiojungle.net/) and [ccMixter](http://ccmixter.org/view/media/picks).
 
 Remember to check the copyright license and make sure to read the terms of that license. If you have any questions about copyright, contact the [UBC Copyright Office.](https://copyright.ubc.ca/)
 {: .note}
