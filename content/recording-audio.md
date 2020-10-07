@@ -42,6 +42,8 @@ Every room has its own unique sound due to technology, windows, air conditioner,
 
 To record audio in Audacity, select the appropriate microphone from the drop down menu. 
 
+<img src="images/MicrophoneDropDownMenu.png" alt="Microphone drop down menu" width="auto" height="auto">
+
 Plug in your microphone before you open Audacity otherwise it might not appear in the drop down menu.
 {: .note}
 
