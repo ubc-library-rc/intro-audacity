@@ -66,7 +66,7 @@ The Envelope tool <img src="images/Envelope Tool.png" alt="Envelope Tool" width=
 
 ## Fade In/Fade Out
 
-You may want to use the Fade In/Fade Out effect to make the transition from one sound to another more pleasant. Highlight the piece of audio that you want to fade using the Selection tool and then select Effect → Fade In or Fade Out.
+You may want to use the Fade In/Fade Out effect to make the transition from one sound to another more pleasant. Highlight the piece of audio that you want to fade using the Selection tool and then select **Effect → Fade In or Fade Out.**
 
 ## Exporting Audio
 
