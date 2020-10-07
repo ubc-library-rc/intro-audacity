@@ -18,6 +18,7 @@ Organize your audio files by placing them on different tracks and labeling them 
 ## Finding Sound Effects and Music
 
 If you want to add sound effects to your project, you can either create your own (e.g. using an app like GarageBand) or download ones that have already been created. Freesound (https://freesound.org/) is a great resource. It has a ton of free sound effects that are openly licensed. 
+
 Freesound requires you to sign up for an account before downloading any sound effects.
 {: .note}
 
@@ -32,7 +33,7 @@ Remember to check the copyright license and make sure to read the terms of that 
 
 Audacity has many tools and effects to use but there are a few important ones to know before you begin your editing project. 
 
-<img src="images/Record.png" alt="Omeka dashboard" width="800" height="auto">
+<img src="images/Record.png" alt="Record interface" width="auto" height="auto">
 
 **Recording Audio in Audacity**
 
@@ -43,13 +44,13 @@ Plug in your microphone before you open Audacity otherwise it might not appear i
 
 To record sound, select the Record button.  
 
-<img src="images/RecordButton.png" alt="Omeka dashboard" width="800" height="auto">
+<img src="images/RecordButton.png" alt="Record button" width="auto" height="auto">
 
 You can pause the recording.
-<img src="images/Pause.png" alt="Omeka dashboard" width="800" height="auto">
+<img src="images/Pause.png" alt="Pause button" width="auto" height="auto">
 
 Or, stop the recording.
-<img src="images/Stop.png" alt="Omeka dashboard" width="800" height="auto">
+<img src="images/Stop.png" alt="Stop button" width="auto" height="auto">
 
 **Adding Sound Files**
 
@@ -59,19 +60,19 @@ To add a sound file to your Audacity project, select **File → Import Audio**.
 
 The Selection tool allows you to highlight and select parts of an audio clip. This tool allows you to select a point where you would like to make a cut in the audio.
 
-<img src="images/SelectionTool.png" alt="Omeka dashboard" width="800" height="auto">
+<img src="images/SelectionTool.png" alt="Selection tool" width="auto" height="auto">
 
 To cut the audio, select **Edit → Clip Boundaries → Split.**
 
 The Time Shift Tool allows you to move audio clips back and forth on the timeline, as well as move audio clips to other tracks.
 
-<img src="images/TimeShiftTool.png" alt="Omeka dashboard" width="800" height="auto">
+<img src="images/TimeShiftTool.png" alt="TimeShift tool" width="auto" height="auto">
 
 **Adjusting Volume**
 
 The Envelope tool allows you to adjust the volume of a particular part of the audio.
 
-<img src="images/Envelope Tool.png" alt="Envelope Tool" width="800" height="auto">
+<img src="images/Envelope Tool.png" alt="Envelope Tool" width="auto" height="auto">
 
 **Fade In/Fade Out**
 
