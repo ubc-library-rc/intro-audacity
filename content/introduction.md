@@ -22,8 +22,7 @@ You can record audio using a:
 
 You may also want to invest in a good set of headphones and a pop filter. A pop filter will minimize “plosives” (i.e. popping sounds).
 
-At UBC Okanagan, you can either borrow equipment from UBC Studios Okanagan or book Studio 123 through the Library.
-{: .note}
+At UBC Okanagan, you can either borrow equipment from [UBC Studios Okanagan](https://ubcstudios.ok.ubc.ca/) or book [Studio 123](https://bookings.ok.ubc.ca/dts/week.php?&area=13&room=67) through the Library.
 
-At UBC Vancouver, you can either borrow equipment from the Library through the Chapman Learning Commons or book the Audio Suite at UBC Studios.
-{: .note}
+At UBC Vancouver, you can either borrow equipment from the Library through the [Chapman Learning Commons](https://learningcommons.ubc.ca/tech-support/equipment-lending/) or book the [Audio Suite at UBC Studios](https://ubcstudios.ubc.ca/).
+
