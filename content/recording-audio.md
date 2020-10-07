@@ -38,4 +38,15 @@ If you’re using an external microphone, make sure that you are facing the micr
 
 Every room has its own unique sound due to technology, windows, air conditioner, etc. Record some silent room tone in case you need it to fill in any gaps in the editing room.
 
+## Recording Audio in Audacity
 
+To record audio in Audacity, select the appropriate microphone from the drop down menu. 
+
+Plug in your microphone before you open Audacity otherwise it might not appear in the drop down menu.
+{: .note}
+
+To record sound, select the Record button. <img src="images/RecordButton.png" alt="Record button" width="auto" height="auto">
+
+You can pause the recording. <img src="images/Pause.png" alt="Pause button" width="auto" height="auto">
+
+Or, stop the recording. <img src="images/Stop.png" alt="Stop button" width="auto" height="auto">
