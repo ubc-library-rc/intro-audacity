@@ -33,21 +33,6 @@ Remember to check the copyright license and make sure to read the terms of that 
 
 Audacity has many tools and effects to use but there are a few important ones to know before you begin your editing project. 
 
-<img src="images/Record.png" alt="Record interface" width="auto" height="auto">
-
-## Recording Audio in Audacity
-
-To record audio in Audacity, select the appropriate microphone from the drop down menu. 
-
-Plug in your microphone before you open Audacity otherwise it might not appear in the drop down menu.
-{: .note}
-
-To record sound, select the Record button. <img src="images/RecordButton.png" alt="Record button" width="auto" height="auto">
-
-You can pause the recording. <img src="images/Pause.png" alt="Pause button" width="auto" height="auto">
-
-Or, stop the recording. <img src="images/Stop.png" alt="Stop button" width="auto" height="auto">
-
 ## Adding Sound Files
 
 To add a sound file to your Audacity project, select **File → Import Audio**.
