@@ -22,14 +22,15 @@ By the end of this tutorial you should be able to…
 ## Schedule
 
 | 0:00 | Welcome and using Zoom|
-| 0:05 | Introduction |  
-| 0:15 | Introduction to ...a |
-| 0:30 | Overview ... |   
-| 0:45 | Demonstration ... |
+| 0:05 | Introduction to Audacity|  
+| 0:15 | Tips for recording and editing audio |   
+| 0:30 | Demonstration ... |
 | 1:00 | Wrap-up and Discussion |
 
 ## Resources:
 * Participants can download Audacity for free on their computers: [https://www.audacityteam.org/download/](https://www.audacityteam.org/download/)
-* [Workshop slides](https://docs.google.com/presentation/d/1D58af982aHKP0IB86k8sqWdb36tp03CKRkKROtotSn4/edit?usp=sharing)
+* [Workshop slides](https://docs.google.com/presentation/d/16jneyMZCaceyrnuJDbCgndYv8Y3wdFIJMhq_m-MzW2g/edit?usp=sharing)
 
 ## What is this workshop not about?
+
+This workshop will provide an introduction to Audacity for beginners. It will not provide an in-depth overview of all the Audacity tools nor provide an overview of any other audio editing software. 
