@@ -3,7 +3,7 @@ layout: default
 title: Introduction
 nav_order: 3
 ---
-# Introduction to audacity
+# Introduction to Audacity
 
 Audacity is a free and open source audio recording and editing software. Audacity can be used to record and edit audio (e.g. cut and paste audio clips, add music, add sound effects). Audacity is great for beginners because many tutorials and helpful resources are available online.
 
@@ -20,8 +20,10 @@ You can record audio using a:
 * An external microphone that plugs into a sound recorder
 * A recording booth
 
-You may also want to invest in a pop filter. A pop filter will minimize “plosives” (i.e. popping sounds).
+You may also want to invest in a good set of headphones and a pop filter. A pop filter will minimize “plosives” (i.e. popping sounds).
 
-Note: At UBC Okanagan, you can either borrow equipment from UBC Studios Okanagan or book Studio 123 through the Library.
+At UBC Okanagan, you can either borrow equipment from UBC Studios Okanagan or book Studio 123 through the Library.
+{: .note}
 
-Note: At UBC Vancouver, you can either borrow equipment from the Library through the Chapman Learning Commons or book the Audio Suite at UBC Studios.
+At UBC Vancouver, you can either borrow equipment from the Library through the Chapman Learning Commons or book the Audio Suite at UBC Studios.
+{: .note}
