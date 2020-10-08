@@ -29,7 +29,7 @@ By the end of this tutorial you should be able to…
 
 ## Resources:
 * Participants can download Audacity for free on their computers: [https://www.audacityteam.org/download/](https://www.audacityteam.org/download/)
-* [Workshop slides](https://docs.google.com/presentation/d/16jneyMZCaceyrnuJDbCgndYv8Y3wdFIJMhq_m-MzW2g/edit?usp=sharing)
+* [Workshop slides](https://docs.google.com/presentation/d/1D58af982aHKP0IB86k8sqWdb36tp03CKRkKROtotSn4/edit?usp=sharing)
 
 ## What is this workshop not about?
 
