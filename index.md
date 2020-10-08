@@ -23,9 +23,11 @@ By the end of this tutorial you should be able to…
 
 | 0:00 | Welcome and using Zoom|
 | 0:05 | Introduction to Audacity|  
-| 0:15 | Tips for recording and editing audio |   
-| 0:30 | Demonstration of Audacity |
-| 1:00 | Wrap-up and Discussion |
+| 0:10 | Tips for recording and editing audio |   
+| 0:20 | Planning a podcast |
+| 0:30 | Audacity demonstration |
+| 0:45 | Activity |
+| 1:00 | Wrap up and discussion |
 
 ## Resources:
 * Participants can download Audacity for free on their computers: [https://www.audacityteam.org/download/](https://www.audacityteam.org/download/)
