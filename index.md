@@ -4,7 +4,7 @@ title: Outline
 nav_order: 1
 ---
 
-## Editing audio with Audacity
+## Editing Audio with Audacity
 This workshop will provide an introduction to Audacity, the free sound editing software. Audacity can be used for many digital projects including podcasts, oral histories, and voice overs or narration. Participants will learn how to record and edit audio using Audacity. This tutorial is intended for beginners.
 
 This workshop is part of the <a href="https://libcal.library.ubc.ca/calendar/vancouver/?t=g&q=Digital%20toolkit&cid=7544&cal=7544&inc=0">Digital Toolkit series</a> co-presented by the <a href="https://researchcommons.library.ubc.ca/">UBC Library Research Commons at UBC-V</a>  and <a href="https://library.ok.ubc.ca/">UBC-O Library</a>.
